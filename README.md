@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Roxana Naranjo Estrada</b> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="35"></h1>
 <p align="center"><i>Build with empathy. Compete with data.</i></p>
 
-<img align="right" width="300" alt="Dev at work" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width="300" alt="Dev at work" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="30">&nbsp;***About me***
 
