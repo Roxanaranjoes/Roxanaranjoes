@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Roxana Naranjo Estrada</b> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Roxana Naranjo Estrada</b> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI1cHpyY21mMGV4dHE2N3Y4OXczZDZhdGp2OXhlOGU5bmUzcHBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp2KXzsPtoKFG/giphy.gif" width="35"></h1>
 <p align="center"><i>Build with empathy. Compete with data.</i></p>
 
 <img align="right" width="300" alt="Dev at work" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
