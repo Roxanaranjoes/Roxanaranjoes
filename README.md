@@ -60,6 +60,23 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 
 <h2>GitHub stats:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=<roxanaranjoes>&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/<roxanaranjoes>)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=<roxanaranjoes>&theme=material-palenight)](https://github.com/<roxanaranjoes>)
+<p align="center">
+  <a href="https://github.com/roxanaranjoes">
+    <img height="170" alt="Roxana GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=roxanaranjoes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Roxana%20Naranjo%20—%20GitHub%20Stats"/>
+  </a>
+  <a href="https://github.com/roxanaranjoes">
+    <img height="170" alt="Roxana Streak"
+      src="https://streak-stats.demolab.com?user=roxanaranjoes&theme=material-palenight&hide_border=true&date_format=j%20M%5B,%20Y%5D"/>
+  </a>
+</p>
+
+<p align="center">
+  <img alt="visits"
+    src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=0e75b6&style=flat"/>
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph)
+
+
 
