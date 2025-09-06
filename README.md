@@ -3,7 +3,7 @@
 
 <img align="right" width="300" alt="Dev at work" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="30">&nbsp;***About me***
 
 I’m an **Economics student (Universidad Nacional)** and a **full-stack builder**.  
 I care about people **and** measurable outcomes. I love **Python automations** (APIs, scraping, schedulers, data pipelines) and I’m learning **AI/ML** right now (scikit-learn, basic **PyTorch**). I also explore **blockchain/Web3** to **democratize access** (payments, responsible micro-credit, supply-chain traceability, verifiable identity). I ship weekly **micro-MVPs**, document in public, and collaborate with the community.
