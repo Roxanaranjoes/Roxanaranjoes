@@ -12,7 +12,7 @@
 </p>
 
 <!-- GIF  -->
-<img align="right" width="260" alt="Dev at work"
+<img align="right" width="200" alt="Dev at work"
      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
 <!-- ===================== ABOUT ===================== -->
