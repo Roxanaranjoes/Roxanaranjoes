@@ -3,11 +3,11 @@
 ![Header](./github-header.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Automations-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/AI%2FML-scikit--learn%20%7C%20PyTorch-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-Next.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DB-SQL%20%7C%20NoSQL-4ea94b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Automations-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-scikit--learn%20%7C%20PyTorch-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-Next.js-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DB-SQL%20%7C%20NoSQL-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI1cHpyY21mMGV4dHE2N3Y4OXczZDZhdGp2OXhlOGU5bmUzcHBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp2KXzsPtoKFG/giphy.gif" width="35" />
 </p>
 
@@ -46,25 +46,25 @@ I care about people **and** measurable outcomes. I love **Python automations** (
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
       </td>
       <td>
-        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/NoSQL-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/scikit--learn-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-8B5CF6?style=for-the-badge&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white">
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
       </td>
     </tr>
   </tbody>
@@ -105,7 +105,6 @@ I care about people **and** measurable outcomes. I love **Python automations** (
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxanaranjoes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
     </td>
     <td align="center" width="50%">
-      <!-- Activity Graph con la misma altura para mantener proporción -->
       <img height="165" alt="Activity Graph"
            src="https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Activity%20Graph"/>
     </td>
@@ -115,7 +114,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 <!-- ===================== VISITS  ===================== -->
 <p align="center">
   <img alt="visits"
-       src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=0e75b6&style=flat"/>
+       src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=8B5CF6&style=flat"/>
 </p>
 
 
