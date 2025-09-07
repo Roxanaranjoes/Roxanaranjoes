@@ -1,9 +1,10 @@
 <!-- =====================  HERO  ===================== -->
-<h1 align="center"><b>Hi, I'm Roxana Naranjo Estrada</b>
+ 
+![Header](./github-header.png)
+  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI1cHpyY21mMGV4dHE2N3Y4OXczZDZhdGp2OXhlOGU5bmUzcHBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp2KXzsPtoKFG/giphy.gif" width="35" />
-</h1>
 
-<p align="center"><i>Economics × Full-Stack × Web3 — Python Automations · AI/ML · Next.js</i></p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Automations-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -110,7 +111,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph)
 
 </details>
-github-header.png
+
 
 ![Header](./github-header.png)
 
