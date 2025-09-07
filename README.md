@@ -111,6 +111,8 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 
 </details>
 
+![Header](./github-header-banner (1))
+
 
 
 
