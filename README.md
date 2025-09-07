@@ -120,6 +120,10 @@ I care about people **and** measurable outcomes. I love **Python automations** (
        src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=8B5CF6&style=flat"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Be+the+light+%F0%9F%92%9C.+Build+the+change+%F0%9F%9F%A3.+Bring+others+along+%F0%9F%94%AE" />
+</p>
+
 
 
 
