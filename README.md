@@ -1,49 +1,49 @@
-<!-- =====================  HERO  ===================== -->
+<!-- ===================== HERO ===================== -->
 
 ![Header](./github-header.png)
 
 <p align="center">
-  <!-- Pastel tech badges (flat; logos en negro para contraste) -->
-  <img src="https://img.shields.io/badge/Python-Automations-FAD1E8?style=flat&logo=python&logoColor=000"/>
-  <img src="https://img.shields.io/badge/AI%2FML-scikit--learn%20%7C%20PyTorch-C7D2FE?style=flat&logo=scikitlearn&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-Next.js-BDE0FE?style=flat&logo=typescript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/DB-SQL%20%7C%20NoSQL-CDEAC0?style=flat&logo=postgresql&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Docker-A7F3D0?style=flat&logo=docker&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Python-Automations-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/AI%2FML-scikit--learn%20%7C%20PyTorch-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-Next.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DB-SQL%20%7C%20NoSQL-4ea94b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI1cHpyY21mMGV4dHE2N3Y4OXczZDZhdGp2OXhlOGU5bmUzcHBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp2KXzsPtoKFG/giphy.gif" width="35" />
 </p>
 
-<!-- =====================  ABOUT (2-column grid via table)  ===================== -->
+<!-- ===================== ABOUT (2-column grid) ===================== -->
 <table>
   <tr>
     <td width="68%" valign="top">
 
 ### About me
 I’m an **Economics student (Universidad Nacional)** and a **full-stack builder**.  
-I care about people **and** measurable outcomes. I love **Python automations** (APIs, scraping, schedulers, data pipelines) and I’m learning **AI/ML** (scikit-learn, basic **PyTorch**). I also explore **blockchain/Web3** to **democratize access** (payments, responsible micro-credit, supply-chain traceability, verifiable identity).
+I care about people **and** measurable outcomes. I love **Python automations** (APIs, scraping, schedulers, data pipelines) and I’m learning **AI/ML** (scikit-learn, basic **PyTorch**). I also explore **blockchain/Web3** to **democratize access** (payments, responsible micro-credit, supply-chain traceability, verifiable identity). I ship weekly **micro-MVPs**, document in public, and collaborate with the community.
 
-- 🌱 Currently learning:
+- Currently learning:
   - **Python automations** (orchestration, testing, logging, Docker)
   - **AI/ML**: scikit-learn (forecasting, recommenders, anomaly detection)
   - **PyTorch (basic)** for small vision/NLP experiments
   - **TypeScript + Next.js**
-- 👯 Open to collaborate on **Open Source**, fintech/web3/data projects.
-- ✔ Ask me anything — happy to help and share docs/tutorials.
-- 📫 Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
+- Open to collaborate on **Open Source**, fintech/web3/data projects.
+- Ask me anything — happy to help and share docs/tutorials.
+- Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
 
-> **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades.
+> **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades. Lanzo **micro-MVPs** y documento en público.
 
     </td>
     <td width="32%" valign="top" align="center">
-      <!-- GIF lateral discreto (puedes eliminar esta línea si no quieres GIF) -->
-      <img width="160" alt="Subtle loop"
+      <!-- GIF lateral visible -->
+      <img align="right" width="160" alt="Dev at work"
            style="border-radius:12px;"
-           src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+           src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- =====================  SKILLS (3-column grid)  ===================== -->
+<!-- ===================== SKILLS (3-column grid) ===================== -->
 ## Skills
 <table>
   <thead>
@@ -56,25 +56,25 @@ I care about people **and** measurable outcomes. I love **Python automations** (
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/HTML5-FDE68A?style=flat&logo=html5&logoColor=000" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-E9D5FF?style=flat&logo=css3&logoColor=000" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-FFF1C9?style=flat&logo=javascript&logoColor=000" alt="JavaScript">
-        <img src="https://img.shields.io/badge/TypeScript-BDE0FE?style=flat&logo=typescript&logoColor=000" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Next.js-C7D2FE?style=flat&logo=nextdotjs&logoColor=000" alt="Next.js">
-        <img src="https://img.shields.io/badge/Python-FAD1E8?style=flat&logo=python&logoColor=000" alt="Python">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       </td>
       <td>
-        <img src="https://img.shields.io/badge/SQL-CDEAC0?style=flat&logo=postgresql&logoColor=000" alt="SQL">
-        <img src="https://img.shields.io/badge/NoSQL-E9D5FF?style=flat&logo=mongodb&logoColor=000" alt="NoSQL">
-        <img src="https://img.shields.io/badge/scikit--learn-FBCFE8?style=flat&logo=scikitlearn&logoColor=000" alt="scikit-learn">
-        <img src="https://img.shields.io/badge/PyTorch-E9D5FF?style=flat&logo=pytorch&logoColor=000" alt="PyTorch">
-        <img src="https://img.shields.io/badge/Pandas-BDE0FE?style=flat&logo=pandas&logoColor=000" alt="Pandas">
+        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Docker-A7F3D0?style=flat&logo=docker&logoColor=000" alt="Docker">
-        <img src="https://img.shields.io/badge/FastAPI-DCFCE7?style=flat&logo=fastapi&logoColor=000" alt="FastAPI">
-        <img src="https://img.shields.io/badge/Git-FFE4E6?style=flat&logo=git&logoColor=000" alt="Git">
-        <img src="https://img.shields.io/badge/GitHub-E5E7EB?style=flat&logo=github&logoColor=000" alt="GitHub">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
       </td>
     </tr>
   </tbody>
@@ -82,15 +82,17 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 
 ---
 
-<!-- =====================  PROJECTS  ===================== -->
+<!-- ===================== PROJECTS ===================== -->
+<!--
 ## Anchor projects
 - **python-automations** — APIs/scraping/cron + Docker + CI → *saves hours/week*
 - **ml-forecasting-starter** — scikit-learn baseline + **FastAPI** `/predict` + demo
 - **portfolio-nextjs** — TS/Next.js landing (Projects, Articles, Contact)
+-->
 
 ---
 
-<!-- =====================  STATS (2x2 grid)  ===================== -->
+<!-- ===================== STATS (2x2 grid + smaller activity graph) ===================== -->
 ## GitHub stats
 
 <table>
@@ -115,19 +117,19 @@ I care about people **and** measurable outcomes. I love **Python automations** (
     </td>
     <td align="center" width="50%">
       <img alt="visits"
-           src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=FAD1E8&style=flat"/>
+           src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=0e75b6&style=flat"/>
     </td>
   </tr>
 </table>
 
 <details open>
-  <summary>Activity graph (toggle)</summary>
+  <summary>Activity graph</summary>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph)
-
+<p align="center">
+  <img width="680" alt="Activity Graph (compact)"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph"/>
+</p>
 </details>
-
-
 
 
 
