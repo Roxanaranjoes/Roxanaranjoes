@@ -11,14 +11,14 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI1cHpyY21mMGV4dHE2N3Y4OXczZDZhdGp2OXhlOGU5bmUzcHBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp2KXzsPtoKFG/giphy.gif" width="35" />
 </p>
 
-<!-- ===================== ABOUT (2-column grid) ===================== -->
-<table>
-  <tr>
-    <td width="68%" valign="top">
+<!-- GIF  -->
+<img align="right" width="260" alt="Dev at work"
+     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
+<!-- ===================== ABOUT ===================== -->
 ### About me
 I’m an **Economics student (Universidad Nacional)** and a **full-stack builder**.  
-I care about people **and** measurable outcomes. I love **Python automations** (APIs, scraping, schedulers, data pipelines) and I’m learning **AI/ML** (scikit-learn, basic **PyTorch**). I also explore **blockchain/Web3** to **democratize access** (payments, responsible micro-credit, supply-chain traceability, verifiable identity). I ship weekly **micro-MVPs**, document in public, and collaborate with the community.
+I care about people **and** measurable outcomes. I love **Python automations** (APIs, scraping, schedulers, data pipelines) and I’m learning **AI/ML** (scikit-learn, basic **PyTorch**). I also explore **blockchain/Web3** to **democratize access** (payments, responsible micro-credit, supply-chain traceability, verifiable identity).
 
 - Currently learning:
   - **Python automations** (orchestration, testing, logging, Docker)
@@ -31,19 +31,9 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 
 > **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades. Lanzo **micro-MVPs** y documento en público.
 
-    </td>
-    <td width="32%" valign="top" align="center">
-      <!-- GIF lateral visible -->
-      <img align="right" width="160" alt="Dev at work"
-           style="border-radius:12px;"
-           src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
-    </td>
-  </tr>
-</table>
-
 ---
 
-<!-- ===================== SKILLS (3-column grid) ===================== -->
+<!-- ===================== SKILLS  ===================== -->
 ## Skills
 <table>
   <thead>
@@ -92,9 +82,8 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 
 ---
 
-<!-- ===================== STATS (2x2 grid + smaller activity graph) ===================== -->
+<!-- ===================== STATS  ===================== -->
 ## GitHub stats
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -116,20 +105,19 @@ I care about people **and** measurable outcomes. I love **Python automations** (
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxanaranjoes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
     </td>
     <td align="center" width="50%">
-      <img alt="visits"
-           src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=0e75b6&style=flat"/>
+      <!-- Activity Graph con la misma altura para mantener proporción -->
+      <img height="165" alt="Activity Graph"
+           src="https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Activity%20Graph"/>
     </td>
   </tr>
 </table>
 
-<details open>
-  <summary>Activity graph</summary>
-
+<!-- ===================== VISITS  ===================== -->
 <p align="center">
-  <img width="680" alt="Activity Graph (compact)"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph"/>
+  <img alt="visits"
+       src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=0e75b6&style=flat"/>
 </p>
-</details>
+
 
 
 
