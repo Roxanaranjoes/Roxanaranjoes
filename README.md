@@ -29,7 +29,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 - Ask me anything — happy to help and share docs/tutorials.
 - Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
 
-> **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades. Lanzo **micro-MVPs** y documento en público.
+> **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades. 
 
 ---
 
