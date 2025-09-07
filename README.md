@@ -107,7 +107,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 </p>
 
 <details open>
-  <summary>📈 Activity graph (toggle)</summary>
+  <summary>📈 Activity graph </summary>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph)
 
