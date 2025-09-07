@@ -110,7 +110,9 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph)
 
 </details>
+github-header.png
 
+![Header](./github-header.png)
 
 
 
