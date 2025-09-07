@@ -2,7 +2,7 @@
  
 ![Header](./github-header.png)
   
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI1cHpyY21mMGV4dHE2N3Y4OXczZDZhdGp2OXhlOGU5bmUzcHBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp2KXzsPtoKFG/giphy.gif" width="35" />
+
 
 
 
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/TypeScript-Next.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/DB-SQL%20%7C%20NoSQL-4ea94b?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI1cHpyY21mMGV4dHE2N3Y4OXczZDZhdGp2OXhlOGU5bmUzcHBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jp2KXzsPtoKFG/giphy.gif" width="35" />
 </p>
 
 <!-- GIF lateral discreto -->
@@ -50,7 +51,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
   </span>
 </details>
 
-<details>
+<details open>
   <summary><b>Data & ML</b></summary>
   <span>
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -61,7 +62,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
   </span>
 </details>
 
-<details>
+<details open>
   <summary><b>DevOps & Tools</b></summary>
   <span>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -105,7 +106,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
        src="https://komarev.com/ghpvc/?username=roxanaranjoes&label=visits&color=0e75b6&style=flat"/>
 </p>
 
-<details>
+<details open>
   <summary>📈 Activity graph (toggle)</summary>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph)
@@ -113,7 +114,6 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 </details>
 
 
-![Header](./github-header.png)
 
 
 
