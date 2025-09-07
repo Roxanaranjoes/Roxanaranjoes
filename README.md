@@ -1,7 +1,7 @@
 ![Header](./github-header.png)
 
 <p align="center">
-
+  <!-- Pastel tech badges (flat, legibles, logos en negro para mejor contraste) -->
   <img src="https://img.shields.io/badge/Python-Automations-FAD1E8?style=flat&logo=python&logoColor=000"/>
   <img src="https://img.shields.io/badge/AI%2FML-scikit--learn%20%7C%20PyTorch-C7D2FE?style=flat&logo=scikitlearn&logoColor=000"/>
   <img src="https://img.shields.io/badge/TypeScript-Next.js-BDE0FE?style=flat&logo=typescript&logoColor=000"/>
@@ -9,39 +9,55 @@
   <img src="https://img.shields.io/badge/Docker-A7F3D0?style=flat&logo=docker&logoColor=000"/>
 </p>
 
-<img align="right" width="190" alt="Dev at work"
-     style="border-radius:12px;"
-     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZjbTAzZ2VqMHVrNDd5N3M4aHhmYmUzMXJ1OHkycHdybjdrbHZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
+<!-- Layout con dos columnas usando tabla: texto a la izquierda, gif pequeño a la derecha -->
+<table>
+  <tr>
+    <td width="70%" valign="top">
 
----
-
-### About me 💗
+### About me
 
 I’m an **Economics student (Universidad Nacional)** and a **full-stack builder**.  
 I care about people **and** measurable outcomes. I love **Python automations** (APIs, scraping, schedulers, data pipelines) and I’m learning **AI/ML** (scikit-learn, basic **PyTorch**). I also explore **blockchain/Web3** to **democratize access** (payments, responsible micro-credit, supply-chain traceability, verifiable identity).
 
-- 🩷 **Currently learning:**
+- 🌱 Currently learning:
   - **Python automations** (orchestration, testing, logging, Docker)
   - **AI/ML**: scikit-learn (forecasting, recommenders, anomaly detection)
   - **PyTorch (basic)** for small vision/NLP experiments
   - **TypeScript + Next.js**
-- 💞 Open to collaborate on **Open Source**, fintech/web3/data projects.
-- 💖 Ask me anything — happy to help and share docs/tutorials.
-- 💌 Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
+- 👯 Open to collaborate on **Open Source**, fintech/web3/data projects.
+- ✔ Ask me anything — happy to help and share docs/tutorials.
+- 📫 Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
 
 > **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades.
 
+    </td>
+    <td width="30%" align="center" valign="top">
+
+<!-- GIF: opción A (líneas suaves pastel) -->
+<img width="180" alt="dev pastel lines"
+     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhsb2tqdzZocmVobG1mYzhjZzRveXl6Mjd6bnJrNjFzNHZrejZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHqZycSplGWWPAI/giphy.gif" />
+
+<!-- GIF: opción B (onda minimal). Para usarla, comenta la de arriba y descomenta esta -->
+<!--
+<img width="180" alt="dev minimal wave"
+     src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+-->
+
+    </td>
+  </tr>
+</table>
+
 ---
 
-## Skills 🌸
+## 🛠️ Skills
 
-
+<!-- Grid 3 columnas con badges pastel -->
 <table>
   <thead>
     <tr>
-      <th align="left">Languages & Frameworks ♡</th>
-      <th align="left">Data & ML ♡</th>
-      <th align="left">DevOps & Tools ♡</th>
+      <th align="left">Languages & Frameworks</th>
+      <th align="left">Data & ML</th>
+      <th align="left">DevOps & Tools</th>
     </tr>
   </thead>
   <tbody>
@@ -105,11 +121,12 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 </p>
 
 <details open>
-  <summary>📈 Activity graph 💕</summary>
+  <summary>📈 Activity graph</summary>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roxanaranjoes&theme=tokyo-night&hide_border=true&custom_title=Roxana%20Naranjo%20—%20Activity%20Graph)
 
 </details>
+
 
 
 
