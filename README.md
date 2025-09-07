@@ -20,14 +20,14 @@
 I’m an **Economics student (Universidad Nacional)** and a **full-stack builder**.  
 I care about people **and** measurable outcomes. I love **Python automations** (APIs, scraping, schedulers, data pipelines) and I’m learning **AI/ML** (scikit-learn, basic **PyTorch**). I also explore **blockchain/Web3** to **democratize access** (payments, responsible micro-credit, supply-chain traceability, verifiable identity).
 
-- 💜 **Currently learning:**
+ 💜 **Currently learning:**
   - **Python automations** (orchestration, testing, logging, Docker)
   - **AI/ML**: scikit-learn (forecasting, recommenders, anomaly detection)
   - **PyTorch (basic)** for small vision/NLP experiments
   - **TypeScript + Next.js**
-- 🟣 Open to collaborate on **Open Source**, fintech/web3/data projects.
-- 🔮 Ask me anything — happy to help and share docs/tutorials.
-- 💜 Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
+ 🟣 Open to collaborate on **Open Source**, fintech/web3/data projects.
+ 🔮 Ask me anything — happy to help and share docs/tutorials.
+ 💜 Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
 
 > **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades. 
 
@@ -83,7 +83,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 ---
 
 <!-- ===================== STATS  ===================== -->
-## GitHub stats 🔮
+## GitHub Stats 🔮
 <table>
   <tr>
     <td align="center" width="50%">
