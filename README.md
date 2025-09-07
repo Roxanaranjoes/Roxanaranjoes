@@ -25,6 +25,7 @@ I care about people **and** measurable outcomes. I love **Python automations** (
   - **AI/ML**: scikit-learn (forecasting, recommenders, anomaly detection)
   - **PyTorch (basic)** for small vision/NLP experiments
   - **TypeScript + Next.js**
+
  🟣 Open to collaborate on **Open Source**, fintech/web3/data projects.
  🔮 Ask me anything — happy to help and share docs/tutorials.
  💜 Reach out: <a href="mailto:rnaranjo@unal.edu.co">rnaranjo@unal.edu.co</a>
