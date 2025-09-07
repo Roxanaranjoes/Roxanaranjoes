@@ -30,20 +30,14 @@ I care about people **and** measurable outcomes. I love **Python automations** (
 
 > **ES:** Estudio **Economía** y desarrollo **full-stack**. **Aprendiendo IA/ML y automatizaciones con Python**. Exploro **blockchain** para democratizar oportunidades.
 
-    </td>
-    <td width="30%" align="center" valign="top">
+[    </td>
+    <td width="30%" align="center" valign="top">](url)
 
-<!-- GIF: opción A (líneas suaves pastel) -->
-<img width="180" alt="dev pastel lines"
-     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhsb2tqdzZocmVobG1mYzhjZzRveXl6Mjd6bnJrNjFzNHZrejZiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHqZycSplGWWPAI/giphy.gif" />
-
-<!-- GIF: opción B (onda minimal). Para usarla, comenta la de arriba y descomenta esta -->
-<!--
 <img width="180" alt="dev minimal wave"
      src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
--->
 
-    </td>
+
+  [  </td>](url)
   </tr>
 </table>
 
